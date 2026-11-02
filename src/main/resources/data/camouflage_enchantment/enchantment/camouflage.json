@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.camouflage_enchantment.camouflage"
+  },
+  "supported_items": "#minecraft:enchantable/head_armor",
+  "primary_items": "#minecraft:enchantable/head_armor",
+  "weight": 2,
+  "max_level": 1,
+  "min_cost": {
+    "base": 12,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 32,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "head"
+  ]
+}
